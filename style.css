@@ -1,0 +1,27 @@
+body{
+background-color: blue;
+}
+
+.contenedor{
+    display: flex;
+    background-color: orange;
+}
+
+.card{
+    margin-left: 5%;
+    margin-block-start: 2%;
+}
+
+img{
+    height: 200px;
+}
+
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+}
+
+h5{
+    font-size: 32px;
+}
+
