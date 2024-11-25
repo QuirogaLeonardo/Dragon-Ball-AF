@@ -1,10 +1,10 @@
 body{
-background-color: blue;
+background-color: black;
 }
 
 .contenedor{
     display: flex;
-    background-color: orange;
+    background-color: darkred;
 }
 
 .card{
@@ -24,4 +24,3 @@ p{
 h5{
     font-size: 32px;
 }
-
